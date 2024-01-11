@@ -7,7 +7,7 @@
 #     machine_codes = code.read()
 #
 # API_TOKEN=qayta_oqib_chiqarilgan_soz # TELEGRAM BOT TOKEN
-# # OPEN_AI_API_KEY="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"
+# # OPEN_AI_API_KEY="YOUR_API_KEY"
 # b=Bot(API_TOKEN)
 # dp=Dispatcher(b)
 # async def main() -> None:
@@ -36,7 +36,7 @@
 # # #
 # #
 # # client = OpenAI(
-# #     api_key="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",
+# #     api_key="YOURAPI",
 # # )
 # #
 # #
