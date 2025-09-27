@@ -24,8 +24,6 @@ buttons = ReplyKeyboardMarkup(
         [
             KeyboardButton(text='Sen kimsan?'),
             KeyboardButton(text='Vazifang nima?'),
-            KeyboardButton(text='Seni Kim Yasagan?'),
-            KeyboardButton(text='Muhiddinov Abdulhodiy Kim?'),
             KeyboardButton(text='PDP Qanqa Univesitet?'),
         ]
     ], resize_keyboard=True
